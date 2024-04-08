@@ -35,9 +35,9 @@
       "sources": [
         {
           "type": "file",
-          "url": "https://github.com/Suwayomi/Suwayomi-VaadinUI/releases/download/v1.5.0/Tachidesk-VaadinUI-1.5.0.jar",
+          "url": "https://github.com/Suwayomi/Suwayomi-VaadinUI/releases/download/v1.6.0/Tachidesk-VaadinUI-1.6.0.jar",
           "dest-filename": "Tachidesk-VaadinUI.jar",
-          "sha256": "205018a976bd8b7ec213c8318350bf8a61c582ba5492a8b52475073c8b374162"
+          "sha256": "ac7cb4407100e0a1bf686045b1eba328060ab5fa4f8e4198e6ae1c41b7debf7f"
         },
         {
           "type": "file",
@@ -51,9 +51,9 @@
         },
         {
           "type": "file",
-          "url": "https://raw.githubusercontent.com/Suwayomi/Suwayomi-VaadinUI/7f994717e1c1d21d56fea68c20b8a61f7b270fc7/linux/flatpak/online.hatsune_miku.tachidesk-vaadinui.appdata.xml",
+          "url": "https://raw.githubusercontent.com/Suwayomi/Suwayomi-VaadinUI/88f0b642c6d127c1b1189c3128c8e734a444b621/linux/flatpak/online.hatsune_miku.tachidesk-vaadinui.appdata.xml",
           "dest-filename": "online.hatsune_miku.tachidesk-vaadinui.appdata.xml",
-          "sha256": "ba38399d238778c36e5d7262d3c97563ff59f25d227603a9ab30982d008ba4b0"
+          "sha256": "3deba3932f5c0f61e413b0c9196f5df7d5cca7f5c268674bb55a321443d8d50c"
         },
         {
           "type": "file",
