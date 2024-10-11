@@ -57,9 +57,9 @@
         },
         {
           "type": "file",
-          "url": "https://raw.githubusercontent.com/Suwayomi/Suwayomi-VaadinUI/refs/tags/v1.13.0/linux/flatpak/online.hatsune_miku.tachidesk-vaadinui.png",
+          "url": "https://raw.githubusercontent.com/Suwayomi/Suwayomi-VaadinUI/95fd51c86aa5b453924341d7ff2cbe732657c659/linux/flatpak/online.hatsune_miku.tachidesk-vaadinui.png",
           "dest-filename": "online.hatsune_miku.tachidesk-vaadinui.png",
-          "sha256": "b42528bb55a51ae2cef8bcc238c323ffb11134b3e578c295a04832d913db04c3"
+          "sha256": "026e7c4f00d46133675f8a2c6dea7508c1d7c19c7b2142507050fc496e05f12f"
         }
       ]
     }
