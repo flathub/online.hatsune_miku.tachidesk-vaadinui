@@ -29,7 +29,7 @@
         "install -Dm755 tachidesk-vaadinui.sh /app/bin/vaaui.sh",
         "mv Tachidesk-VaadinUI.jar /app/bin/Tachidesk-VaadinUI.jar",
         "install -D -m0644 ${FLATPAK_ID}.desktop -t /app/share/applications/",
-        "install -D -m0644 ${FLATPAK_ID}.png -t /app/share/icons/hicolor/128x128/apps/",
+        "install -D -m0644 ${FLATPAK_ID}.png -t /app/share/icons/hicolor/512x512/apps/",
         "install -D -m0644 ${FLATPAK_ID}.appdata.xml -t /app/share/metainfo/"
       ],
       "sources": [
