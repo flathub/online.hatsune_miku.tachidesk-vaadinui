@@ -9,6 +9,7 @@
   "command": "vaaui.sh",
   "finish-args": [
     "--env=PATH=/app/jre/bin:/usr/bin:/app/bin/",
+    "--env=JAVA_HOME=/app/jre",
     "--share=network",
     "--persist=.TachideskVaadinUI",
     "--socket=x11",
