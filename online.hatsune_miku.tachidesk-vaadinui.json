@@ -12,7 +12,8 @@
     "--share=network",
     "--persist=.TachideskVaadinUI",
     "--socket=x11",
-    "--share=ipc"
+    "--share=ipc",
+    "--talk-name=org.freedesktop.Notifications"
   ],
   "modules": [
     {
